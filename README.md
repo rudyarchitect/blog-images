@@ -1,2 +1,2 @@
-# site-images
-rudy.org.cn's images.
+# blog-images
+blog's images.
